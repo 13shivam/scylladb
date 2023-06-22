@@ -1,0 +1,11 @@
+/* Override theme styles */
+
+.topic-box--product p {
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 640px) {
+    .hero__title {
+        max-width: 550px;
+    }
+}
